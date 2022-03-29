@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-[![RohJiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohJiHyun)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohJiHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![fabyday's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabyday)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabyday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
