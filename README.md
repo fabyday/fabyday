@@ -5,8 +5,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-A0A000?style=flat-square&logo=java&logoColor=white"/></a>
 
-## **discord link**
-[<img src="https://img.shields.io/badge/Discord-A0A0AA?style=flat-square&logo=discord&logoColor=white"/></a>](https://discord.gg/XnZ3Awc8MQ)
+## **links**
+discord : [<img src="https://img.shields.io/badge/Discord-A0A0AA?style=flat-square&logo=discord&logoColor=white"/></a>](https://discord.gg/XnZ3Awc8MQ)  
+youtube  : https://www.youtube.com/channel/UCeb64J9jOGs-uLfdo0l15FA
+homepage : https://faby.day
 
 
 <!--
