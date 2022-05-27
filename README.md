@@ -7,7 +7,7 @@
 
 ## **links**
 discord : [<img src="https://img.shields.io/badge/Discord-A0A0AA?style=flat-square&logo=discord&logoColor=white"/></a>](https://discord.gg/XnZ3Awc8MQ)  
-youtube  : https://www.youtube.com/channel/UCeb64J9jOGs-uLfdo0l15FA
+youtube  : https://www.youtube.com/channel/UCeb64J9jOGs-uLfdo0l15FA  
 homepage : https://faby.day
 
 
