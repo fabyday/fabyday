@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=profile!&fontColor=d6ace6)
+## **Who am I**
+- Who love hwaiian pizza.
 
 ## **main language**
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=cplusplus&logoColor=white"/></a>
