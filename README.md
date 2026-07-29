@@ -7,7 +7,8 @@
 <h1 align="center">fabyday</h1>
 <p align="center">
  <b>🍍 Who loves Hawaiian Pizza</b><br>
-  Developer of <b>Kawaikara</b> (OTT Viewer) <br>
+  Developer of <b>Kawaikara</b> (OTT Viewer), <br>
+  <b>BDIH-Launcher</b>(Eternal Return/Hoyo-wise Game Launcher) <br>
   <b>Currently developing <i>MachiUi</i></b>: A lightweight C++ native UI framework using React
 </p>
 
